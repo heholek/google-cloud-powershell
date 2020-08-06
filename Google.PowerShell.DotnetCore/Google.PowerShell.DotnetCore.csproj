@@ -29,7 +29,7 @@
   </PropertyGroup>
 
   <ItemGroup Condition=" '$(TargetFramework)' == 'netstandard1.6' ">
-    <PackageReference Include="System.Management.Automation" Version="6.0.0-alpha17" />
+    <PackageReference Include="System.Management.Automation" Version="6.1.6" />
     <PackageReference Include="Google.Api.Gax" Version="2.1.0" />
     <PackageReference Include="Google.Api.Gax.Rest" Version="2.1.0" />
     <PackageReference Include="Google.Apis" Version="1.29.1" />
